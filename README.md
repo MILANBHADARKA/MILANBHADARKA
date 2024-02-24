@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MILANBHADARKA
 - 👀 I’m interested in video editing.
-- 🌱 I’m currently learning many tings.
-- 📫 How to reach me bhadarkamilan6@gmail.com
+- 🌱 I’m currently learning many things.
+- 📫 How to reach me work.bhadarka@gmail.com
 
 <!---
 MILANBHADARKA/MILANBHADARKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
