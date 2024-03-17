@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm @MILANBHADARKA</h1>
 
-- 🔭 I’m currently working on *Nothing.*
-
 - 🌱 I’m currently learning *many things.*
+
+- 🔭 I’m currently working on *Nothing.*
 
 - 📫 How to reach me *Work.bhadarka@gmail.com*
 
