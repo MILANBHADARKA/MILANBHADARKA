@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Many things!**
 
-- 🔭 I’m currently working on **Nothing.**
+- 🔭 I’m currently working on **NEXT.js.**
 
 - 📫 How to reach me **work.bhadarka@gmail.com**
 
