@@ -8,7 +8,7 @@
 
 # 💻Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,tailwind,react,vite,redux,expressjs,nodejs,npm,mongo,typescript,nextjs,postgres,mysql,prisma,neondb,vercel,postman,git,github,vscode)]([https://skillicons.dev](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,tailwind,react,vite,redux,expressjs,nodejs,npm,mongo,typescript,nextjs,postgres,mysql,prisma,neondb,vercel,postman,git,github,vscode))
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,tailwind,react,vite,redux,expressjs,nodejs,npm,mongo,typescript,nextjs,postgres,mysql,prisma,neondb,vercel,postman,git,github,vscode)]([https://skillicons.dev](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,tailwind,react,vite,redux,expressjs,nodejs,npm,mongo,typescript,nextjs,postgres,mysql,prisma,neondb,vercel,postman,git,github,vscode))
 
 # 🌐Socials
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/milan-bhadarka)
