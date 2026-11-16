@@ -6,7 +6,7 @@
 
 - **Full-stack developer** with a strong interest in backend systems and architecture.
 
-- **Web Team Lead** at **Google Developer Groups on-Campus DDU**, **Lead Organizer of DUHacks 5.0** and active participant in the hackathon community.
+- **Community Lead** at **Google Developer Groups on-Campus DDU**, **Ex. Lead Organizer of DUHacks 5.0** and active participant in the hackathon community.
 
 - Currently exploring Backend Engineering, System Design and Cloud Infrastructure.
 
